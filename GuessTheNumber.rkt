@@ -1,5 +1,6 @@
-; Getting started with Racket - Question 2
+; Getting started with Scheme/Racket
 ; Racket Program: Guess the number
+;
 ; Prog Spring 21
 ; Sila. April 30th 2021.
 
