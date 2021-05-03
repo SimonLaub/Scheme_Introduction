@@ -1,10 +1,12 @@
-; Getting started with Racket 
-; Racket Program:
+; Getting started with Scheme/Racket
+; Prog Spring 21
+; 
+; Sila. April 30th 2021.
+;
+; Scheme/Racket Program:
 ; Redefine exp and multiply functions
 ; Make a GCD
 ; Calculate primes
-; Prog Spring 21
-; Sila. April 30th 2021.
 
 ; Make own exponential function
 (define (newexpt b n)
