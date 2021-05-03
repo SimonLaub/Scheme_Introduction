@@ -3,7 +3,7 @@
 ; 
 ; Sila. April 30th 2021.
 ;
-; Fibonacci numbers
+; Fibonacci numbers in Scheme
 
 (define (fibonacci n)
   (if (< n 2)
